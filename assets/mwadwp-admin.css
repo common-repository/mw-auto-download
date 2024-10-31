@@ -1,0 +1,31 @@
+.mwadwp__accordion {
+    background-color: #dfdfdf;
+    color: #444;
+    cursor: pointer;
+    padding: 8px;
+    margin-right: 15px;
+    text-align: left;
+    transition: 0.4s;
+}
+
+.mwadwp__active, .mwadwp__accordion:hover {
+    background-color: #ccc;
+}
+
+.mwadwp__panel {
+    padding: 5px 0;
+    margin-bottom: 5px;
+    display: none;
+    overflow: hidden;
+}
+
+.mwadwp__tooltip {
+    font-size: 10px;
+    font-style: italic;
+    color: #a6a6a6;
+}
+
+.mwadwp__pageId {
+    font-size: 10px;
+    font-style: italic;
+}

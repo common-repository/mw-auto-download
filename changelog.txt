@@ -1,0 +1,20 @@
+*** Auto download by Michael Willems Changelog ***
+
+2021-08-1 - version 1.0.4
+* Add shortcode [mw-download] to use in the editor.
+
+2021-06-21 - version 1.0.3
+* Removed original translation files.
+
+2021-06-20 - version 1.0.2
+* Bugfix for translations.
+* Added uninstall script.
+
+2021-06-14 - version 1.0.1
+* Added translation files.
+* Added dutch translation.
+* Added new tip on settings page.
+* Fixed error message.
+
+2021-06-14 - version 1.0.0
+* First release.
